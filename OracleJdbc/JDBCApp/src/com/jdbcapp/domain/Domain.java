@@ -83,7 +83,7 @@ public abstract class Domain implements java.io.Serializable {
 		toStringBuilder.append("\n");
 		toStringBuilder.append("\nid: ");
 		toStringBuilder.append(id);
-		toStringBuilder.append("\nguid: ");
+		toStringBuilder.append("\nguid: "); 
 		toStringBuilder.append(guid);
 		toStringBuilder.append("\ncreatedBy: ");
 		toStringBuilder.append(createdBy);
